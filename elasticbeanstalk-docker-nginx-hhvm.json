@@ -1,0 +1,9 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "joostlaan/baseimage-nginx-hhvm"
+    },
+    "Ports": [
+        {"ContainerPort": "80"}
+    ]
+}
